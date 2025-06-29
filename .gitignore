@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Entornos locales
+.env
+
+# Logs y temporales
+npm-debug.log
+.DS_Store
+
+# Builds (opcional, si usás build en React)
+build/
+dist/
