@@ -8,7 +8,7 @@ Una aplicación de chat instantáneo construida con **React**, **Node.js**, **So
 
 ---
 
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Backend: **Node.js + Express + Socket.io**
 - Base de datos: **MongoDB Atlas**
@@ -17,7 +17,7 @@ Una aplicación de chat instantáneo construida con **React**, **Node.js**, **So
 
 ---
 
-## 🛠 Cómo ejecutar la app localmente
+##  Cómo ejecutar la app localmente
 
 ### 1. Cloná el repositorio
 
